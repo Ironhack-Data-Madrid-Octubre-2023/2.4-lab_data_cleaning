@@ -60,8 +60,4 @@ If you have completed the `Stats` challenge without much difficulty, you can try
 
 To accomplish this challenge, you will need to do some research on tidying and melt&pivot. Feel free to reference any resources you consider appropiate.
 
-
-
-
-
-
+CAMBIO
