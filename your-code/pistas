@@ -1,0 +1,23 @@
+1. Nothwestern Dr - LAST
+2. Annabel - "Franklin Ave"
+
+
+id	name	license_id	address_number	address_street_name	ssn
+14887	Morty Schapiro	118009	4919	Northwestern Dr	111564949
+
+
+id	name	license_id	address_number	address_street_name	ssn
+16371	Annabel Miller	490173	103	Franklin Ave	318771143
+
+
+MORTY:
+I heard a gunshot and then saw a man run out. He had a "Get Fit Now Gym" bag. The membership number on the bag started with "48Z". Only gold members have those bags. The man got into a car with a plate that included "H42W".
+
+GYM: Get Fit Now Gym
+membership_no starts with "48Z"
+gold_member
+Car plate includes: "H42W"
+
+SUSPECTS:
+48Z7A	28819	Joe Germuska	20160305	gold
+48Z55	67318	Jeremy Bowers	20160101	gold
